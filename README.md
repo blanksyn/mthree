@@ -1,4 +1,9 @@
 ----------------------------
-MTHREE ASSIGNMENT 1
+MTHREE ASSIGNMENTS
 ----------------------------
-Banking application
+Banking application :  bankingApp
+
+----------------------------
+MTHREE ENGAGE 
+----------------------------
+Java basics :  JavaBasics
