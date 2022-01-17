@@ -1,10 +1,10 @@
 ----------------------------
 MTHREE ASSIGNMENTS
 ----------------------------
-Banking application :  bankingApp
+1) Banking application :  bankingApp
 
 ----------------------------
 MTHREE ENGAGE 
 ----------------------------
-Java basics :  JavaBasics
-Classes and Objects: DVD Library
+1) Java basics :  JavaBasics
+2) Classes and Objects: DVD Library
